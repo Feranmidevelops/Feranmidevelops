@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feranmidevelops
 - 👀 I’m interested in full stack software development
-- 🌱 I’m currently learning javascript/ python
+- 🌱 I use javascript/python(django)
 - 💞️ I’m looking to collaborate on open source web projects
 - 📫 How to reach me via gmail workwithferanmi@gmail.com
 - 😄 Pronouns: HE/HIM/MALE
